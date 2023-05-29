@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+	<Data>
+		<Nick>Nazarii</Nick>
+		<Age>18</Age>
+		<Salary>11000</Salary>
+	</Data>
+	<Data>
+		<Nick>Sanya</Nick>
+		<Age>35</Age>
+		<Salary>11100</Salary>
+	</Data>
+	<Data>
+		<Nick>Volodia</Nick>
+		<Age>19</Age>
+		<Salary>15000</Salary>
+	</Data>
+	<Data>
+		<Nick>Roman</Nick>
+		<Age>31</Age>
+		<Salary>8000</Salary>
+	</Data>
+	<Data>
+		<Nick>Andrii</Nick>
+		<Age>182</Age>
+		<Salary>10500</Salary>
+	</Data>
+	<Data>
+		<Nick>Rostyk</Nick>
+		<Age>37</Age>
+		<Salary>9500</Salary>
+	</Data>
+</Info>

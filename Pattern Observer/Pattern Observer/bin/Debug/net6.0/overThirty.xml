@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OverThirty>
+  <Person>
+    <Nick>Sanya</Nick>
+    <Age>35</Age>
+    <Salary>11100</Salary>
+  </Person>
+  <Person>
+    <Nick>Andrii</Nick>
+    <Age>182</Age>
+    <Salary>10500</Salary>
+  </Person>
+</OverThirty>

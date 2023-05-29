@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UnderThirty>
+  <Person>
+    <Nick>Nazarii</Nick>
+    <Age>18</Age>
+    <Salary>11000</Salary>
+  </Person>
+  <Person>
+    <Nick>Volodia</Nick>
+    <Age>19</Age>
+    <Salary>15000</Salary>
+  </Person>
+</UnderThirty>
